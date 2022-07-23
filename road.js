@@ -11,7 +11,7 @@ class Road{
         this.top=-infinity;
         this.bottom=infinity;
     }
-
+/*jndjnej*/
     draw(ctx){
         ctx,lineWidth=5;
         ctx.strokeStyle="white";
